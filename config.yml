@@ -1,9 +1,16 @@
 repos:
-  - name:
+  - name: rEFInd
+    origin:
+      url: https://git.code.sf.net/p/refind/code
+    target:
+      url: git@github.com:mix-mirror/rEFInd.git
+      auth: &auth
+        type: ssh
+        ssh_private_key: ${SSH_PRIVATE_KEY}
+
+  - name: cado-nfs
     origin:
       url: https://gitlab.inria.fr/cado-nfs/cado-nfs.git
     target:
       url: git@github.com:mix-mirror/cado-nfs.git
-      auth:
-        type: ssh
-        ssh_private_key: ${SSH_PRIVATE_KEY}
+      auth: *auth
