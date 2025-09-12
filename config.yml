@@ -1,0 +1,9 @@
+repos:
+  - name:
+    origin:
+      url: https://gitlab.inria.fr/cado-nfs/cado-nfs.git
+    target:
+      url: https://github.com/mix-mirror/cado-nfs.git
+      auth:
+        type: ssh
+        ssh_private_key: ${SSH_PRIVATE_KEY}
