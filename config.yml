@@ -14,3 +14,10 @@ repos:
     target:
       url: git@github.com:mix-mirror/cado-nfs.git
       auth: *auth
+
+  - name: mmc-utils
+    origin:
+      url: https://git.kernel.org/pub/scm/utils/mmc/mmc-utils.git
+    target:
+      url: git@github.com:mix-mirror/mmc-utils.git
+      auth: *auth
