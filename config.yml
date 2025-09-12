@@ -21,3 +21,10 @@ repos:
     target:
       url: git@github.com:mix-mirror/mmc-utils.git
       auth: *auth
+
+  - name: BusyBox
+    origin:
+      url: git://busybox.net/busybox.git
+    target:
+      url: git@github.com:mix-mirror/busybox.git
+      auth: *auth
