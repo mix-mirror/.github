@@ -2,4 +2,5 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) |  |  |  | ERROR: push target: EOF | 2025-09-12T08:37:30Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-09-12T08:43:07Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) |  |  |  | ERROR: push target: EOF | 2025-09-12T08:51:59Z |
