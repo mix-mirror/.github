@@ -2,7 +2,7 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-12T13:23:37Z | `ca8b37f` | mmc-utils: Warn during rpmb read-counter on expiry | 2025-09-14T08:57:37Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-06T07:10:43Z | `f0febb7` | Merge branch 'merge-github' into 'master' | 2025-09-14T08:57:48Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-09-03T11:36:35Z | `3681b5f` | hush: changes to comments and whitespace, no code changes | 2025-09-14T08:57:50Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-09-14T08:57:42Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-12T13:23:37Z | `ca8b37f` | mmc-utils: Warn during rpmb read-counter on expiry | 2025-09-14T09:23:40Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-06T07:10:43Z | `f0febb7` | Merge branch 'merge-github' into 'master' | 2025-09-14T09:23:51Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-09-03T11:36:35Z | `3681b5f` | hush: changes to comments and whitespace, no code changes | 2025-09-14T09:23:52Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-09-14T09:23:44Z |
