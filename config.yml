@@ -28,3 +28,17 @@ repos:
     target:
       url: git@github.com:mix-mirror/busybox.git
       auth: *auth
+
+  - name: libinput
+    origin:
+      url: https://gitlab.freedesktop.org/libinput/libinput.git
+    target:
+      url: git@github.com:mix-mirror/libinput.git
+      auth: *auth
+
+  - name: cairo
+    origin:
+      url: https://gitlab.freedesktop.org/cairo/cairo.git
+    target:
+      url: git@github.com:mix-mirror/cairo.git
+      auth: *auth
