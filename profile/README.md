@@ -2,9 +2,9 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-09-24T01:30:12Z | `f5e1bf9` | archival/libarchive: sanitize filenames on output (prevent control sequence attacks | 2025-09-24T21:54:16Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-12T13:23:37Z | `ca8b37f` | mmc-utils: Warn during rpmb read-counter on expiry | 2025-09-24T21:54:02Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-09-04T07:57:26Z | `32a9863` | quirks: Add quirks for the GPD MicroPC 2 touchpad | 2025-09-24T21:54:09Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | descent_tweaks | 2025-06-25T09:28:53Z | `9e1cf5a` | kill a few extra verbose_output_vfprintf | 2025-09-24T21:54:09Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-09-24T21:54:08Z |
-| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-09-24T22:02:31Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-24T20:48:30Z | `be49e05` | fix gcc static analyzer report. | 2025-09-24T22:23:34Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-09-24T01:30:12Z | `f5e1bf9` | archival/libarchive: sanitize filenames on output (prevent control sequence attacks | 2025-09-24T22:23:34Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-12T13:23:37Z | `ca8b37f` | mmc-utils: Warn during rpmb read-counter on expiry | 2025-09-24T22:23:20Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-09-04T07:57:26Z | `32a9863` | quirks: Add quirks for the GPD MicroPC 2 touchpad | 2025-09-24T22:23:26Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-09-24T22:23:52Z |
+| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-09-24T22:31:51Z |
