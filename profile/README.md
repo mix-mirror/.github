@@ -2,9 +2,9 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-10-01T23:21:58Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-10-01T23:22:13Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-09-24T01:30:12Z | `f5e1bf9` | archival/libarchive: sanitize filenames on output (prevent control sequence attacks | 2025-10-01T23:22:11Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-09-04T07:57:26Z | `32a9863` | quirks: Add quirks for the GPD MicroPC 2 touchpad | 2025-10-01T23:22:05Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-10-01T23:22:03Z |
-| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-10-01T23:30:35Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-10-01T23:40:34Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-10-01T23:40:48Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-09-24T01:30:12Z | `f5e1bf9` | archival/libarchive: sanitize filenames on output (prevent control sequence attacks | 2025-10-01T23:40:49Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-09-04T07:57:26Z | `32a9863` | quirks: Add quirks for the GPD MicroPC 2 touchpad | 2025-10-01T23:40:41Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-10-01T23:40:39Z |
+| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-10-01T23:49:06Z |
