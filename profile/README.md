@@ -2,9 +2,9 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-10-07T08:05:08Z | `a0017a5` | cp: fix `cp -aT` overwriting symlink to directories | 2025-10-07T16:33:43Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-10-07T00:31:38Z | `a4ea1e2` | libinput: Add libinput_event_gesture forward declaration | 2025-10-07T16:33:35Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-10-07T16:33:29Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-10-07T16:33:44Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-10-07T16:33:52Z |
-| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-10-07T16:42:08Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-10-07T08:05:08Z | `a0017a5` | cp: fix `cp -aT` overwriting symlink to directories | 2025-10-07T16:55:32Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-10-07T00:31:38Z | `a4ea1e2` | libinput: Add libinput_event_gesture forward declaration | 2025-10-07T16:55:25Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-10-07T16:55:18Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-10-07T16:55:33Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-10-07T16:55:30Z |
+| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-10-07T17:03:50Z |
