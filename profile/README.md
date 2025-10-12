@@ -2,13 +2,9 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-10-11T21:48:04Z | `3ff3cb4` | ntpd: set tmx.maxerror properly - avoid STA_UNSYNC | 2025-10-12T11:19:00Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-10-09T22:39:49Z | `e07e138` | quirks: add vendor quirks for Nulea M501 thumb trackball | 2025-10-12T11:18:53Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-10-12T11:18:46Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-10-12T11:19:01Z |
-| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-10-12T11:27:19Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) |  |  |  | ERROR: fetch origin: unexpected client error: unexpected requesting "https://git.code.sf.net/p/refind/code/info/refs?service=git-upload-pack" status code: 503: <html><body><h1>503 Service Unavailable</h1>
-No server is available to handle this request.
-</body></html>
-
- | 2025-10-12T11:18:45Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-10-11T21:48:04Z | `3ff3cb4` | ntpd: set tmx.maxerror properly - avoid STA_UNSYNC | 2025-10-12T11:39:58Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-10-09T22:39:49Z | `e07e138` | quirks: add vendor quirks for Nulea M501 thumb trackball | 2025-10-12T11:39:51Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-10-12T11:39:45Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-10-12T11:39:58Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-10-12T11:40:14Z |
+| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-10-12T11:48:14Z |
