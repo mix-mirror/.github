@@ -2,9 +2,9 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-10-23T13:28:16Z | `d6e1f93` | plugins: update plugins for the current API | 2025-10-23T21:54:12Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-10-13T19:56:47Z | `b99a529` | busybox: optional --version support | 2025-10-23T21:54:19Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-10-23T21:54:06Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-10-23T21:54:20Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-10-23T21:54:22Z |
-| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-10-23T22:01:47Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-10-23T21:51:36Z | `aac0d3c` | quirks: Avoid accidental scroll for Logitech MX Master 2S | 2025-10-23T22:24:15Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-10-13T19:56:47Z | `b99a529` | busybox: optional --version support | 2025-10-23T22:24:03Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-10-23T22:23:50Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-10-23T22:24:09Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-10-23T22:23:54Z |
+| [cairo](git@github.com:mix-mirror/cairo.git) |  |  |  | ERROR: push target: EOF | 2025-10-23T22:32:20Z |
