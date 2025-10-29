@@ -36,9 +36,9 @@ repos:
       url: git@github.com:mix-mirror/libinput.git
       auth: *auth
 
-  - name: cairo
+  - name: ocserv
     origin:
-      url: https://gitlab.freedesktop.org/cairo/cairo.git
+      url: https://gitlab.com/openconnect/ocserv.git
     target:
-      url: git@github.com:mix-mirror/cairo.git
+      url: git@github.com:mix-mirror/ocserv.git
       auth: *auth
