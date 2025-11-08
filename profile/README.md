@@ -2,9 +2,9 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-08T06:42:34Z | `8d7ae80` | eject: fix missing -s option in trivial usage | 2025-11-08T16:29:32Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-11-07T15:13:08Z | `9c78f98` | CI: bump to Fedora 43 and Ubuntu 25.10 | 2025-11-08T16:29:25Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-11-08T16:29:19Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-11-08T16:29:31Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-03-30T16:46:10Z | `284f2ec` | Merge branch 'tmp-protobuf' into 'master' | 2025-11-08T16:29:27Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-11-08T16:29:26Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-08T06:42:34Z | `8d7ae80` | eject: fix missing -s option in trivial usage | 2025-11-08T16:47:14Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-11-07T15:13:08Z | `9c78f98` | CI: bump to Fedora 43 and Ubuntu 25.10 | 2025-11-08T16:47:07Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-09-26T12:57:24Z | `a92c227` | mmc-utils: Correctly handle write counter overflow status | 2025-11-08T16:47:01Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-09-25T12:22:55Z | `d84ae39` | Merge branch 'fix-mpz-padic-factor-bug' into 'master' | 2025-11-08T16:47:12Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-03-30T16:46:10Z | `284f2ec` | Merge branch 'tmp-protobuf' into 'master' | 2025-11-08T16:47:09Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-11-08T16:47:13Z |
