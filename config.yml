@@ -42,3 +42,10 @@ repos:
     target:
       url: git@github.com:mix-mirror/ocserv.git
       auth: *auth
+
+  - name: openconnect
+    origin:
+      url: https://gitlab.com/openconnect/openconnect.git
+    target:
+      url: git@github.com:mix-mirror/openconnect.git
+      auth: *auth
