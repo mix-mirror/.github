@@ -36,6 +36,13 @@ repos:
       url: git@github.com:mix-mirror/libinput.git
       auth: *auth
 
+  - name: DBus
+    origin:
+      url: https://gitlab.freedesktop.org/dbus/dbus.git
+    target:
+      url: git@github.com:mix-mirror/dbus.git
+      auth: *auth
+
   - name: ocserv
     origin:
       url: https://gitlab.com/openconnect/ocserv.git
