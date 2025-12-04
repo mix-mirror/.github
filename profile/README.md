@@ -2,11 +2,11 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-02T15:31:55Z | `005b905` | Merge branch 'las-refactoring-small-sieve' into 'master' | 2025-12-04T22:58:30Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-01T21:41:21Z | `0949bfd` | Merge branch 'bugfix/iroute' into 'master' | 2025-12-04T22:58:26Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-01T21:39:11Z | `db6a046` | touchpad: use INPUT_PROP_PRESSUREPAD as signal it's a pressurepad | 2025-12-04T22:58:23Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-04T22:58:32Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-04T22:58:17Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-04T22:58:32Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-04T22:58:31Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-04T22:58:22Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-02T15:31:55Z | `005b905` | Merge branch 'las-refactoring-small-sieve' into 'master' | 2025-12-04T23:28:03Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-01T21:41:21Z | `0949bfd` | Merge branch 'bugfix/iroute' into 'master' | 2025-12-04T23:28:06Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-01T21:39:11Z | `db6a046` | touchpad: use INPUT_PROP_PRESSUREPAD as signal it's a pressurepad | 2025-12-04T23:28:02Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-04T23:28:03Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-04T23:28:09Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-04T23:28:09Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-04T23:27:56Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) |  |  |  | ERROR: fetch origin: Get "https://git.kernel.org/pub/scm/utils/mmc/mmc-utils.git/info/refs?service=git-upload-pack": dial tcp 172.105.4.254:443: i/o timeout | 2025-12-04T23:28:20Z |
