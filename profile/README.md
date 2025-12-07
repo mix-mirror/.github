@@ -2,11 +2,11 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-06T10:39:32Z | `acf8c5b` | Merge branch 'tmp-do_while' into 'master' | 2025-12-07T10:42:55Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-02T15:31:55Z | `005b905` | Merge branch 'las-refactoring-small-sieve' into 'master' | 2025-12-07T10:43:00Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-01T23:24:15Z | `38b5c2e` | touchpad: add configurable timeouts to disable-while-trackpointing | 2025-12-07T10:42:52Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-07T10:43:01Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-07T10:42:45Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-07T10:43:02Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-07T10:43:01Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-07T10:42:52Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-06T10:39:32Z | `acf8c5b` | Merge branch 'tmp-do_while' into 'master' | 2025-12-07T10:55:48Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-02T15:31:55Z | `005b905` | Merge branch 'las-refactoring-small-sieve' into 'master' | 2025-12-07T10:55:53Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-01T23:24:15Z | `38b5c2e` | touchpad: add configurable timeouts to disable-while-trackpointing | 2025-12-07T10:55:45Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-07T10:55:55Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-07T10:55:39Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-07T10:55:55Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-07T10:55:54Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-07T10:55:45Z |
