@@ -2,11 +2,11 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-16T06:54:18Z | `2d3e472` | quirks: add a quirk for the RazerBlade182025 keyboard | 2025-12-16T15:57:01Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-15T15:39:51Z | `d50c4a6` | Merge branch 'las-clean-up-and-io-fixes' into 'master' | 2025-12-16T15:57:06Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-06T10:39:32Z | `acf8c5b` | Merge branch 'tmp-do_while' into 'master' | 2025-12-16T15:57:04Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-16T15:57:08Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-16T15:56:56Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-16T15:57:09Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-16T15:57:08Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-16T15:57:01Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-16T06:54:18Z | `2d3e472` | quirks: add a quirk for the RazerBlade182025 keyboard | 2025-12-16T16:40:41Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-15T15:39:51Z | `d50c4a6` | Merge branch 'las-clean-up-and-io-fixes' into 'master' | 2025-12-16T16:40:47Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-06T10:39:32Z | `acf8c5b` | Merge branch 'tmp-do_while' into 'master' | 2025-12-16T16:40:43Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-16T16:40:46Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-16T16:40:34Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-16T16:40:49Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-16T16:40:47Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-16T16:40:39Z |
