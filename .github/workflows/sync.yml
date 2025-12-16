@@ -18,6 +18,8 @@ jobs:
           go-version: stable
 
       - name: Install tool
+        env:
+          GOPROXY: direct
         run: |
           go install github.com/mix-mirror/reposync/cmd/reposync@latest
 
