@@ -57,9 +57,9 @@ repos:
       url: git@github.com:mix-mirror/openconnect.git
       auth: *auth
 
-  - name: BIND
-    origin:
-      url: https://gitlab.isc.org/isc-projects/bind9.git
-    target:
-      url: git@github.com:mix-mirror/bind9.git
-      auth: *auth
+  # - name: BIND
+  #   origin:
+  #     url: https://gitlab.isc.org/isc-projects/bind9.git
+  #   target:
+  #     url: git@github.com:mix-mirror/bind9.git
+  #     auth: *auth
