@@ -63,3 +63,10 @@ repos:
     target:
       url: git@github.com:mix-mirror/bind9.git
       auth: *auth
+
+  - name: iptables
+    origin:
+      url: https://git.netfilter.org/iptables
+    target:
+      url: git@github.com:mix-mirror/iptables.git
+      auth: *auth
