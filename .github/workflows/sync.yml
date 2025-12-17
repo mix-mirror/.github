@@ -12,26 +12,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
-
-      - uses: actions/setup-go@main
-        with:
-          go-version: stable
-
-      - name: Install tool
-        env:
-          GOPROXY: direct
-        run: |
-          go install github.com/mix-mirror/reposync/cmd/reposync@latest
-
+      - uses: DeterminateSystems/determinate-nix-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
       - name: Sync
         continue-on-error: true
-        id: sync
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          REPOSYNC_URL: "github:mix-mirror/reposync-rs#default"
         run: |
           cp profile/README.tpl.md profile/README.md
-          reposync -config config.yml -markdown profile/README.md
-
+          nix run "${REPOSYNC_URL}" -- \
+            --config config.yml \
+            --markdown profile/README.md
       - name: Commit
         run: |
           set -xve
