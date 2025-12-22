@@ -2,13 +2,13 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2025-12-22T09:06:14Z | `ab98994` | chg: test: Add isctest.kasp.Key.SettimeOptions | 2025-12-22T10:00:30Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-21T23:01:34Z | `23cd040` | quirks: HP 14-fh0xxx just match internal touchpad | 2025-12-22T09:59:06Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-21T10:41:51Z | `0f53e0d` | Communicate secmod address to worker after successful authentication | 2025-12-22T09:58:46Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-20T14:01:22Z | `328fee6` | Merge branch 'fix-negative-merge-cost-on-small-input' into 'master' | 2025-12-22T09:58:58Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-22T09:59:02Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2025-11-27T20:07:02Z | `78d7a5f` | nft: Support replacing a rule added in the same batch | 2025-12-22T09:59:00Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-22T09:58:46Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-22T09:58:51Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-22T09:58:52Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-22T09:58:48Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2025-12-22T09:06:14Z | `ab98994` | chg: test: Add isctest.kasp.Key.SettimeOptions | 2025-12-22T10:37:11Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-21T23:01:34Z | `23cd040` | quirks: HP 14-fh0xxx just match internal touchpad | 2025-12-22T10:35:33Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-21T10:41:51Z | `0f53e0d` | Communicate secmod address to worker after successful authentication | 2025-12-22T10:35:24Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-20T14:01:22Z | `328fee6` | Merge branch 'fix-negative-merge-cost-on-small-input' into 'master' | 2025-12-22T10:35:29Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-22T10:35:23Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2025-11-27T20:07:02Z | `78d7a5f` | nft: Support replacing a rule added in the same batch | 2025-12-22T10:35:31Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-22T10:35:09Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-22T10:35:16Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-22T10:35:20Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-22T10:35:15Z |
