@@ -2,13 +2,13 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-23T20:06:27Z | `83966ee` | quirks: remove now not needed entries | 2025-12-24T11:43:50Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2025-12-22T14:09:06Z | `2118fa0` | chg: doc: Clarify rndc sign | 2025-12-24T11:45:51Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-21T10:41:51Z | `0f53e0d` | Communicate secmod address to worker after successful authentication | 2025-12-24T11:43:55Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-20T14:01:22Z | `328fee6` | Merge branch 'fix-negative-merge-cost-on-small-input' into 'master' | 2025-12-24T11:43:58Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-24T11:43:55Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2025-11-27T20:07:02Z | `78d7a5f` | nft: Support replacing a rule added in the same batch | 2025-12-24T11:44:02Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-24T11:43:40Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-24T11:43:59Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-24T11:43:50Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-24T11:43:46Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2025-12-23T20:06:27Z | `83966ee` | quirks: remove now not needed entries | 2025-12-24T11:57:20Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2025-12-22T14:09:06Z | `2118fa0` | chg: doc: Clarify rndc sign | 2025-12-24T11:58:54Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2025-12-21T10:41:51Z | `0f53e0d` | Communicate secmod address to worker after successful authentication | 2025-12-24T11:57:12Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2025-12-20T14:01:22Z | `328fee6` | Merge branch 'fix-negative-merge-cost-on-small-input' into 'master' | 2025-12-24T11:57:14Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2025-12-24T11:57:10Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2025-11-27T20:07:02Z | `78d7a5f` | nft: Support replacing a rule added in the same batch | 2025-12-24T11:57:18Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-11-11T17:21:09Z | `4dbd897` | mmc-utils: lsmmc.c: print_{mmc,sd}_cid(): correct month names | 2025-12-24T11:56:56Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2025-12-24T11:57:07Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2025-08-26T12:24:03Z | `1bcf396` | Merge branch 'replace-free-to-g_free' into 'main' | 2025-12-24T11:57:08Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2024-12-06T01:03:17Z | `253abe5` | Fixed incorrect terminology about the Windows fast startup feature in documentation | 2025-12-24T11:57:01Z |
