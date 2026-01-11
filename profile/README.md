@@ -2,13 +2,13 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-01-11T08:15:14Z | `74ebc5e` | Strip domain suffix from hostname | 2026-01-11T08:58:32Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-01-10T16:11:36Z | `fcc8206` | Merge branch 'fix-gmpecm-detection-2' into 'master' | 2026-01-11T08:58:36Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-01-10T10:39:21Z | `731d445` | meson: revamp the debug build detection for the builddir lookup | 2026-01-11T08:58:26Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-01-09T15:22:31Z | `0d9facb` | chg: test: Avoid sending manually created responses in asyncserver | 2026-01-11T09:00:05Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-01-11T08:58:24Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-01-11T08:58:28Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-01-11T08:58:19Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2026-01-11T08:58:35Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2026-01-11T08:58:33Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.netfilter.org: Network is unreachable; class=Os (2) | 2026-01-11T09:00:49Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-01-11T08:15:14Z | `74ebc5e` | Strip domain suffix from hostname | 2026-01-11T09:31:12Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-01-10T16:11:36Z | `fcc8206` | Merge branch 'fix-gmpecm-detection-2' into 'master' | 2026-01-11T09:31:14Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-01-10T10:39:21Z | `731d445` | meson: revamp the debug build detection for the builddir lookup | 2026-01-11T09:31:19Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-01-09T15:22:31Z | `0d9facb` | chg: test: Avoid sending manually created responses in asyncserver | 2026-01-11T09:32:57Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-01-11T09:31:06Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-01-11T09:31:08Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-01-11T09:30:59Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2025-11-30T05:13:15Z | `d755846` | xxd: fix -pANYTHING handling (-pc50 does not mean -p -c50) | 2026-01-11T09:31:15Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2026-01-11T09:31:16Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.netfilter.org: Network is unreachable; class=Os (2) | 2026-01-11T09:33:30Z |
