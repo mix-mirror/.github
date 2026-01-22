@@ -2,13 +2,13 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-01-22T10:23:38Z | `878ae0a` | fix: nil: Add missing sources to named-checkconf | 2026-01-22T11:51:59Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-01-22T09:42:20Z | `649da41` | httpd: fix compilation script of httpd_ratelimit_cgi.c | 2026-01-22T11:50:19Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-01-21T08:44:13Z | `8854066` | plugin: add an example for controlling a mouse with a tablet | 2026-01-22T11:50:21Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-01-11T12:02:01Z | `1c156d8` | Merge branch 'docs/man-tidy' into 'master' | 2026-01-22T11:50:06Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-01-10T16:11:36Z | `fcc8206` | Merge branch 'fix-gmpecm-detection-2' into 'master' | 2026-01-22T11:50:11Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-01-22T11:49:58Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-01-22T11:50:02Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-01-22T11:50:07Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2026-01-22T11:50:01Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.netfilter.org: Network is unreachable; class=Os (2) | 2026-01-22T11:52:15Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-01-22T12:58:28Z | `851992f` | httpd: allow http2 requests if proxying, tighten METHOD checks | 2026-01-22T13:07:30Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-01-22T10:23:38Z | `878ae0a` | fix: nil: Add missing sources to named-checkconf | 2026-01-22T13:09:27Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-01-21T08:44:13Z | `8854066` | plugin: add an example for controlling a mouse with a tablet | 2026-01-22T13:07:39Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-01-11T12:02:01Z | `1c156d8` | Merge branch 'docs/man-tidy' into 'master' | 2026-01-22T13:07:34Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-01-10T16:11:36Z | `fcc8206` | Merge branch 'fix-gmpecm-detection-2' into 'master' | 2026-01-22T13:07:44Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-01-22T13:07:30Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-01-22T13:07:29Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-01-22T13:07:17Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2025-11-27T20:07:02Z | `78d7a5f` | nft: Support replacing a rule added in the same batch | 2026-01-22T13:07:40Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2025-11-03T20:06:07Z | `0dcdff8` | Merge branch 'tmp-tun-fix' into 'master' | 2026-01-22T13:07:28Z |
