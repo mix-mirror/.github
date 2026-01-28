@@ -2,13 +2,13 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-01-28T16:45:37Z | `df1ef31` | httpd: handle bare "Location: URL" redirects from CGIs | 2026-01-28T22:48:17Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-01-28T10:23:48Z | `6c1bc49` | fix: test: ISC_RUN_TEST_IMPL should use a static declaration | 2026-01-28T22:49:53Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-01-28T00:43:37Z | `33b1d87` | touchpad: don't disable on external mice until we see an event | 2026-01-28T22:48:22Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-01-27T19:49:44Z | `85a19ce` | libxtables: Store all requested target types | 2026-01-28T22:48:22Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-01-26T17:32:33Z | `7a72f50` | Import translations from GNOME | 2026-01-28T22:48:19Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-01-26T07:16:47Z | `360e471` | Merge branch 'bugfix/ban-json' into 'master' | 2026-01-28T22:48:16Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-01-10T16:11:36Z | `fcc8206` | Merge branch 'fix-gmpecm-detection-2' into 'master' | 2026-01-28T22:48:18Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-01-28T22:48:09Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-01-28T22:48:13Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-01-28T22:48:03Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-01-28T16:45:37Z | `df1ef31` | httpd: handle bare "Location: URL" redirects from CGIs | 2026-01-28T23:34:28Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-01-28T10:23:48Z | `6c1bc49` | fix: test: ISC_RUN_TEST_IMPL should use a static declaration | 2026-01-28T23:36:00Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-01-28T00:43:37Z | `33b1d87` | touchpad: don't disable on external mice until we see an event | 2026-01-28T23:34:36Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-01-27T19:49:44Z | `85a19ce` | libxtables: Store all requested target types | 2026-01-28T23:34:16Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-01-26T17:32:33Z | `7a72f50` | Import translations from GNOME | 2026-01-28T23:34:10Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-01-26T07:16:47Z | `360e471` | Merge branch 'bugfix/ban-json' into 'master' | 2026-01-28T23:34:17Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-01-10T16:11:36Z | `fcc8206` | Merge branch 'fix-gmpecm-detection-2' into 'master' | 2026-01-28T23:34:31Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-01-28T23:34:28Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-01-28T23:34:13Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-01-28T23:34:17Z |
