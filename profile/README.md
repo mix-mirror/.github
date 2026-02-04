@@ -2,13 +2,13 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-02-03T23:15:43Z | `115153e` | Merge branch 'rewrite-fb-parsing' into 'master' | 2026-02-03T23:45:42Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-02-03T22:07:29Z | `834d2fa` | Merge branch 'tmp-README-oidc.md' into 'master' | 2026-02-03T23:45:41Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-02-03T10:40:41Z | `93b684f` | findfs: tweak --help | 2026-02-03T23:45:40Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-02-03T03:01:59Z | `6d514ee` | touchpad: add get_default_timeout for dwt and dwtp | 2026-02-03T23:45:42Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-02-02T09:43:48Z | `fe9fee6` | chg: dev: initial openssl version splitting | 2026-02-03T23:47:35Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-01-30T16:25:16Z | `758cfe5` | configure: Auto-detect libz unless explicitly requested | 2026-02-03T23:45:48Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-01-26T17:32:33Z | `7a72f50` | Import translations from GNOME | 2026-02-03T23:45:49Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-02-03T23:45:34Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-02-03T23:45:37Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-02-03T23:45:28Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-02-03T23:27:14Z | `ad89a83` | tablet: ignore the tablet tool name if it's a generic tool | 2026-02-04T00:02:14Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-02-03T23:15:43Z | `115153e` | Merge branch 'rewrite-fb-parsing' into 'master' | 2026-02-04T00:02:13Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-02-03T22:07:29Z | `834d2fa` | Merge branch 'tmp-README-oidc.md' into 'master' | 2026-02-04T00:01:53Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-02-03T10:40:41Z | `93b684f` | findfs: tweak --help | 2026-02-04T00:02:04Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-02-02T09:43:48Z | `fe9fee6` | chg: dev: initial openssl version splitting | 2026-02-04T00:03:45Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-01-30T16:25:16Z | `758cfe5` | configure: Auto-detect libz unless explicitly requested | 2026-02-04T00:02:06Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-01-26T17:32:33Z | `7a72f50` | Import translations from GNOME | 2026-02-04T00:01:59Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-02-04T00:02:00Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-02-04T00:01:59Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-02-04T00:01:55Z |
