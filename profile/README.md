@@ -2,13 +2,13 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-02-06T10:38:22Z | `2aba637` | fix: test: nsec3/tests_nsec3_change.py updates zone file too fast | 2026-02-06T12:05:23Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-02-06T10:19:11Z | `9b2a50e` | *: use xasprintf_inplace() in more places | 2026-02-06T12:03:33Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-02-06T09:41:43Z | `1337476` | Merge branch 'new-work-queues' into 'master' | 2026-02-06T12:03:40Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-02-04T02:41:58Z | `e0ba559` | libinput 1.30.901 | 2026-02-06T12:03:30Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-02-03T22:07:29Z | `834d2fa` | Merge branch 'tmp-README-oidc.md' into 'master' | 2026-02-06T12:03:35Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-01-30T16:25:16Z | `758cfe5` | configure: Auto-detect libz unless explicitly requested | 2026-02-06T12:03:42Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-01-26T17:32:33Z | `7a72f50` | Import translations from GNOME | 2026-02-06T12:03:39Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-02-06T12:03:28Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-02-06T12:03:31Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-02-06T12:03:21Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-02-06T13:19:39Z | `fd14acc` | fix: test: Allow re-run of kasp test case on all FreeBSDs | 2026-02-06T13:38:14Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-02-06T10:19:11Z | `9b2a50e` | *: use xasprintf_inplace() in more places | 2026-02-06T13:36:30Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-02-06T09:41:43Z | `1337476` | Merge branch 'new-work-queues' into 'master' | 2026-02-06T13:36:42Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-02-04T02:41:58Z | `e0ba559` | libinput 1.30.901 | 2026-02-06T13:36:38Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-02-03T22:07:29Z | `834d2fa` | Merge branch 'tmp-README-oidc.md' into 'master' | 2026-02-06T13:36:19Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-01-30T16:25:16Z | `758cfe5` | configure: Auto-detect libz unless explicitly requested | 2026-02-06T13:36:30Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-01-26T17:32:33Z | `7a72f50` | Import translations from GNOME | 2026-02-06T13:36:24Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-02-06T13:36:29Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-02-06T13:36:24Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-02-06T13:36:20Z |
