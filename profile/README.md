@@ -2,13 +2,13 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-02-08T10:45:57Z | `8424dc4` | main: !CONFIG_BUSYBOX: "busybox --OPT" is not a call to applet "-OPT" | 2026-02-08T21:45:20Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-02-06T21:02:33Z | `410bf81` | Merge branch 'readjust-trees' into 'master' | 2026-02-08T21:45:19Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-02-06T17:34:00Z | `b5837eb` | fix: nil: Release gnamebuf also on the error path | 2026-02-08T21:47:11Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-02-04T02:41:58Z | `e0ba559` | libinput 1.30.901 | 2026-02-08T21:45:20Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-02-03T22:07:29Z | `834d2fa` | Merge branch 'tmp-README-oidc.md' into 'master' | 2026-02-08T21:45:21Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-01-26T17:32:33Z | `7a72f50` | Import translations from GNOME | 2026-02-08T21:45:26Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-02-08T21:45:13Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-02-08T21:45:17Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-02-08T21:45:06Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.netfilter.org: Network is unreachable; class=Os (2) | 2026-02-08T21:47:37Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-02-08T10:45:57Z | `8424dc4` | main: !CONFIG_BUSYBOX: "busybox --OPT" is not a call to applet "-OPT" | 2026-02-08T22:02:05Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-02-06T21:02:33Z | `410bf81` | Merge branch 'readjust-trees' into 'master' | 2026-02-08T22:02:06Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-02-06T17:34:00Z | `b5837eb` | fix: nil: Release gnamebuf also on the error path | 2026-02-08T22:03:54Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-02-04T02:41:58Z | `e0ba559` | libinput 1.30.901 | 2026-02-08T22:02:12Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-02-03T22:07:29Z | `834d2fa` | Merge branch 'tmp-README-oidc.md' into 'master' | 2026-02-08T22:02:05Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-01-26T17:32:33Z | `7a72f50` | Import translations from GNOME | 2026-02-08T22:02:08Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-02-08T22:01:58Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-02-08T22:02:02Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-02-08T22:01:52Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.netfilter.org: Network is unreachable; class=Os (2) | 2026-02-08T22:04:22Z |
