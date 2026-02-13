@@ -70,3 +70,10 @@ repos:
     target:
       url: git@github.com:mix-mirror/iptables.git
       auth: *auth
+
+  - name: GRUB
+    origin:
+      url: https://git.savannah.gnu.org/git/grub.git
+    target:
+      url: git@github.com:mix-mirror/grub.git
+      auth: *auth
