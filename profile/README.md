@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-03-06T14:06:13Z | `4fd8419` | chg: dev: Replace lock keyfile hashmap with lock pool | 2026-03-07T07:39:15Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-03-05T20:46:04Z | `ea01f25` | paste: fix output when file lengths differ | 2026-03-07T07:37:48Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-05T14:08:00Z | `3dce38e` | conf/i386-cygwin-img.lds: Update to use _grub_text_base symbol | 2026-03-07T07:38:37Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-03-04T20:05:04Z | `6ed508b` | fix bug introduced by  594daaaeb | 2026-03-07T07:37:40Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-03-04T04:53:28Z | `db62bf7` | quirks/apple: Add AttrSizeHint to Magic Trackpad USB-C | 2026-03-07T07:37:53Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-03-02T07:19:50Z | `a309ece` | llhttp: updated to latest version 9.3.1 | 2026-03-07T07:37:23Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-02-11T11:52:59Z | `2592caa` | Merge branch 'fix_ipv6_on_freebsd' into 'master' | 2026-03-07T07:37:33Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-03-07T07:37:27Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-03-07T07:37:30Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-03-07T07:37:35Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: SSL error: syscall failure: Connection reset by peer; class=Os (2) | 2026-03-07T07:37:42Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-03-06T14:06:13Z | `4fd8419` | chg: dev: Replace lock keyfile hashmap with lock pool | 2026-03-07T08:00:22Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-03-05T22:17:18Z | `5c7377b` | nft: Use the current name for the desired NFTNL_EXPR_BITWISE_OP | 2026-03-07T07:59:16Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-03-05T20:46:04Z | `ea01f25` | paste: fix output when file lengths differ | 2026-03-07T07:59:14Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-05T14:08:00Z | `3dce38e` | conf/i386-cygwin-img.lds: Update to use _grub_text_base symbol | 2026-03-07T07:59:52Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-03-04T20:05:04Z | `6ed508b` | fix bug introduced by  594daaaeb | 2026-03-07T07:58:58Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-03-04T04:53:28Z | `db62bf7` | quirks/apple: Add AttrSizeHint to Magic Trackpad USB-C | 2026-03-07T07:59:22Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-03-02T07:19:50Z | `a309ece` | llhttp: updated to latest version 9.3.1 | 2026-03-07T07:58:44Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-02-11T11:52:59Z | `2592caa` | Merge branch 'fix_ipv6_on_freebsd' into 'master' | 2026-03-07T07:58:52Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-03-07T07:58:46Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-03-07T07:58:40Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-03-07T07:59:00Z |
