@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-03-12T20:15:14Z | `86a5f25` | chg: doc: Set up version for BIND 9.21.21 | 2026-03-12T23:38:30Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-03-12T13:36:13Z | `d632aaf` | Merge branch 'fix/ns_name_collision' into 'master' | 2026-03-12T23:36:24Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-03-12T12:23:48Z | `d368f3f` | udhcpc6: check the size of D6_OPT_IAPREFIX option | 2026-03-12T23:36:20Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-03-12T23:36:32Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-03-10T23:12:25Z | `8dd25ec` | Fold hold-to-scroll into existing scroll button lock mode | 2026-03-12T23:36:16Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-03-05T22:17:18Z | `5c7377b` | nft: Use the current name for the desired NFTNL_EXPR_BITWISE_OP | 2026-03-12T23:36:28Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-05T14:08:00Z | `3dce38e` | conf/i386-cygwin-img.lds: Update to use _grub_text_base symbol | 2026-03-12T23:37:20Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-03-04T20:05:04Z | `6ed508b` | fix bug introduced by  594daaaeb | 2026-03-12T23:36:21Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-03-12T23:36:09Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-03-12T23:36:19Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-03-12T23:36:03Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-03-12T23:46:19Z | `ca0eb21` | runsv: fix open error check (fd < -1 should be fd < 0) | 2026-03-13T00:00:58Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-03-12T20:15:14Z | `86a5f25` | chg: doc: Set up version for BIND 9.21.21 | 2026-03-13T00:03:02Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-03-12T13:36:13Z | `d632aaf` | Merge branch 'fix/ns_name_collision' into 'master' | 2026-03-13T00:00:37Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-03-13T00:00:52Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-03-10T23:12:25Z | `8dd25ec` | Fold hold-to-scroll into existing scroll button lock mode | 2026-03-13T00:00:42Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-03-05T22:17:18Z | `5c7377b` | nft: Use the current name for the desired NFTNL_EXPR_BITWISE_OP | 2026-03-13T00:00:49Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-05T14:08:00Z | `3dce38e` | conf/i386-cygwin-img.lds: Update to use _grub_text_base symbol | 2026-03-13T00:01:44Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-03-04T20:05:04Z | `6ed508b` | fix bug introduced by  594daaaeb | 2026-03-13T00:00:31Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-03-13T00:00:32Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-03-13T00:00:32Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-03-13T00:00:17Z |
