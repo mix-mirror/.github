@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-03-24T05:50:24Z | `9baccdf` | touchpad: support automatic drag-lock when releasing at the edge | 2026-03-24T15:35:29Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-03-24T00:14:10Z | `b9aa862` | fix: dev: rpz_rrset_find() now recurses on ISC_R_NOTFOUND | 2026-03-24T15:38:22Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-03-23T19:38:26Z | `1fde847` | Merge branch 'containers' into 'master' | 2026-03-24T15:35:42Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-03-21T06:35:48Z | `41b9016` | meson: autogenerate AUTHORS | 2026-03-24T15:35:39Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-03-16T13:49:42Z | `bee2520` | trylink: remove "local" bashism | 2026-03-24T15:35:37Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-03-24T15:36:40Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-03-13T11:35:14Z | `781a87c` | xtables-translate: Return non-zero if translation fails | 2026-03-24T15:35:45Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-03-24T15:35:57Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-03-24T15:35:29Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-03-24T15:35:30Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-03-24T15:35:13Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-03-24T05:50:24Z | `9baccdf` | touchpad: support automatic drag-lock when releasing at the edge | 2026-03-24T16:43:39Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-03-24T00:14:10Z | `b9aa862` | fix: dev: rpz_rrset_find() now recurses on ISC_R_NOTFOUND | 2026-03-24T16:46:37Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-03-23T19:38:26Z | `1fde847` | Merge branch 'containers' into 'master' | 2026-03-24T16:43:47Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-03-21T06:35:48Z | `41b9016` | meson: autogenerate AUTHORS | 2026-03-24T16:43:47Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-03-16T13:49:42Z | `bee2520` | trylink: remove "local" bashism | 2026-03-24T16:43:53Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-03-24T16:44:54Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-03-13T11:35:14Z | `781a87c` | xtables-translate: Return non-zero if translation fails | 2026-03-24T16:43:55Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-03-24T16:44:05Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-03-24T16:43:31Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-03-24T16:43:40Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-03-24T16:43:24Z |
