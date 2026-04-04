@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-04T09:37:56Z | `264d757` | arptables: Warn when ignoring '-p' option | 2026-04-04T11:16:53Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-04-03T12:05:17Z | `175b121` | fix: usr: Fix a possible race condition during zone transfers | 2026-04-04T11:18:55Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-04-02T21:15:56Z | `9840050` | .gitlab-ci.yml: increased jobs | 2026-04-04T11:16:51Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-01T23:53:12Z | `356c498` | lua: force text mode for loading plugins | 2026-04-04T11:16:44Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-03-26T16:31:52Z | `98b1472` | Merge branch 'oups-I-dropt-the-ampersand' into 'master' | 2026-04-04T11:16:51Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-04-04T11:17:47Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-04-04T11:17:01Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-04-04T11:16:39Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-04-04T11:16:46Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-04-04T11:16:33Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-04-04T11:16:40Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-04T09:37:56Z | `264d757` | arptables: Warn when ignoring '-p' option | 2026-04-04T11:54:28Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-04-03T12:05:17Z | `175b121` | fix: usr: Fix a possible race condition during zone transfers | 2026-04-04T11:56:24Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-04-02T21:15:56Z | `9840050` | .gitlab-ci.yml: increased jobs | 2026-04-04T11:54:23Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-01T23:53:12Z | `356c498` | lua: force text mode for loading plugins | 2026-04-04T11:54:24Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-03-26T16:31:52Z | `98b1472` | Merge branch 'oups-I-dropt-the-ampersand' into 'master' | 2026-04-04T11:54:17Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-04-04T11:55:19Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-04-04T11:54:34Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-04-04T11:54:20Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-04-04T11:54:18Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-04-04T11:54:06Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-04-04T11:54:14Z |
