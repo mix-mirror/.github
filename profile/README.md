@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-04-15T14:05:16Z | `4197958` | fix: test: Use virtualenv's Python interpreter when running tests from a venv | 2026-04-15T14:09:47Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-04-15T06:48:04Z | `76a17da` | Merge branch 'del_build-aux' into 'master' | 2026-04-15T14:07:12Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-04-14T08:14:58Z | `0574bc3` | correct flaky test c40_qs | 2026-04-15T14:07:02Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-13T23:48:15Z | `8c06cee` | quirks: add missing modification warning to a quirks file | 2026-04-15T14:07:12Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-04T09:37:56Z | `264d757` | arptables: Warn when ignoring '-p' option | 2026-04-15T14:07:12Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-04-15T14:08:12Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-04-15T14:07:26Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-04-15T14:06:52Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-04-15T14:07:03Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-04-15T14:06:46Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-04-15T14:06:54Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-04-15T14:05:16Z | `4197958` | fix: test: Use virtualenv's Python interpreter when running tests from a venv | 2026-04-15T15:42:31Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-04-15T06:48:04Z | `76a17da` | Merge branch 'del_build-aux' into 'master' | 2026-04-15T15:39:58Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-04-14T08:14:58Z | `0574bc3` | correct flaky test c40_qs | 2026-04-15T15:39:48Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-13T23:48:15Z | `8c06cee` | quirks: add missing modification warning to a quirks file | 2026-04-15T15:39:57Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-04T09:37:56Z | `264d757` | arptables: Warn when ignoring '-p' option | 2026-04-15T15:40:07Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-04-15T15:41:00Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-04-15T15:40:06Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-04-15T15:39:40Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-04-15T15:39:50Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-04-15T15:39:33Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-04-15T15:39:41Z |
