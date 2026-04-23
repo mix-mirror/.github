@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-04-23T22:58:41Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-04-22T11:20:05Z | `1228688` | Merge branch 'tmp-rfc1123' into 'master' | 2026-04-23T22:58:36Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-04-22T11:00:24Z | `a43a6cf` | fix: dev: Remove unneeded options in dns_zonefetch | 2026-04-23T23:00:52Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-22T04:53:14Z | `86a775b` | tools/debug-tablet: guard against open() failures | 2026-04-23T22:58:34Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-04-18T20:53:07Z | `6e6b79d` | correct flaky test full_d20 | 2026-04-23T22:58:30Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-04-12T14:20:09Z | `2f3b16f` | libbb: rename two fields in ioloop_state, no logic changes | 2026-04-23T22:58:33Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-04-23T22:59:33Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-04-23T22:58:45Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-04-23T22:58:21Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-04-23T22:58:30Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-04-23T22:58:14Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-23T23:21:07Z | `c2c8414` | tools: update the tool option parsing test for newer options | 2026-04-23T23:57:21Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-04-23T23:57:20Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-04-22T11:20:05Z | `1228688` | Merge branch 'tmp-rfc1123' into 'master' | 2026-04-23T23:57:12Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-04-22T11:00:24Z | `a43a6cf` | fix: dev: Remove unneeded options in dns_zonefetch | 2026-04-23T23:59:15Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-04-18T20:53:07Z | `6e6b79d` | correct flaky test full_d20 | 2026-04-23T23:57:11Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-04-12T14:20:09Z | `2f3b16f` | libbb: rename two fields in ioloop_state, no logic changes | 2026-04-23T23:57:08Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-04-23T23:58:15Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-04-23T23:57:23Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-04-23T23:56:58Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-04-23T23:57:06Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-04-23T23:56:50Z |
