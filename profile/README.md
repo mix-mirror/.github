@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-02T16:49:43Z | `8913ffa` | doc: updated for nft/iptables dependencies | 2026-05-03T15:34:17Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-02T10:05:32Z | `ead17e7` | Optimize !ENABLE_SHOW_USAGE config | 2026-05-03T15:34:13Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-05-01T20:22:58Z | `d12d3b2` | chg: nil: Minor simplification in dnssec-keygen | 2026-05-03T15:36:05Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-24T00:24:24Z | `e53c214` | util: add a free_clear() helper to reset after free | 2026-05-03T15:34:24Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-05-03T15:34:31Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-04-18T20:53:07Z | `6e6b79d` | correct flaky test full_d20 | 2026-05-03T15:34:14Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-05-03T15:35:13Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-05-03T15:34:27Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-05-03T15:34:30Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-05-03T15:34:12Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-05-03T15:33:59Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-02T16:49:43Z | `8913ffa` | doc: updated for nft/iptables dependencies | 2026-05-03T16:32:28Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-05-01T20:22:58Z | `d12d3b2` | chg: nil: Minor simplification in dnssec-keygen | 2026-05-03T16:34:34Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-24T00:24:24Z | `e53c214` | util: add a free_clear() helper to reset after free | 2026-05-03T16:32:55Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-05-03T16:32:14Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-04-18T20:53:07Z | `6e6b79d` | correct flaky test full_d20 | 2026-05-03T16:32:34Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-05-03T16:33:18Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-05-03T16:32:41Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-05-03T16:32:13Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-05-03T16:32:22Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-05-03T16:32:35Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-05-03T16:32:43Z |
