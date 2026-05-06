@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-06T11:54:40Z | `22bbad4` | worker: add per-worker memory limit via RLIMIT_DATA | 2026-05-06T17:16:28Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-06T06:11:33Z | `01b4f89` | of course docker build and docker run don't grok the same flags... | 2026-05-06T17:16:18Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-05-06T04:46:42Z | `3c60322` | fix: usr: Prevent a crash when using both dns64 and filter-aaaa | 2026-05-06T17:18:56Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-02T10:05:32Z | `ead17e7` | Optimize !ENABLE_SHOW_USAGE config | 2026-05-06T17:16:22Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-24T00:24:24Z | `e53c214` | util: add a free_clear() helper to reset after free | 2026-05-06T17:16:34Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-05-06T17:16:38Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-05-06T17:17:31Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-05-06T17:16:35Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-05-06T17:16:13Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-05-06T17:16:20Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-05-06T17:16:02Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-05-06T18:18:58Z | `deb3694` | fix: usr: Fix a memory leak issue in the catalog zones | 2026-05-06T19:07:42Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-06T11:54:40Z | `22bbad4` | worker: add per-worker memory limit via RLIMIT_DATA | 2026-05-06T19:05:26Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-06T06:11:33Z | `01b4f89` | of course docker build and docker run don't grok the same flags... | 2026-05-06T19:05:16Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-02T10:05:32Z | `ead17e7` | Optimize !ENABLE_SHOW_USAGE config | 2026-05-06T19:05:17Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-24T00:24:24Z | `e53c214` | util: add a free_clear() helper to reset after free | 2026-05-06T19:05:32Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-05-06T19:05:29Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-05-06T19:06:17Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-05-06T19:05:40Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-05-06T19:05:17Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-05-06T19:05:19Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-05-06T19:05:01Z |
