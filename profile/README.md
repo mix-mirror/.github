@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-05-14T16:53:53Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-05-14T06:52:58Z | `29f0b07` | fix: dev: Fix data race during rndc dumpdb or zone load | 2026-05-14T16:56:14Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-14T06:52:32Z | `e4c8d89` | Fix typo [ci skip] | 2026-05-14T16:54:00Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-12T10:32:41Z | `3439ff7` | Merge branch 'locale-agnostic-sort' into 'master' | 2026-05-14T16:53:48Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-24T00:24:24Z | `e53c214` | util: add a free_clear() helper to reset after free | 2026-05-14T16:54:05Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-05-14T16:54:10Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-05-14T16:55:03Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-05-14T16:54:11Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-05-14T16:53:39Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-05-14T16:53:52Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-05-14T16:53:33Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-05-14T18:58:50Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-05-14T06:52:58Z | `29f0b07` | fix: dev: Fix data race during rndc dumpdb or zone load | 2026-05-14T19:01:00Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-14T06:52:32Z | `e4c8d89` | Fix typo [ci skip] | 2026-05-14T18:58:55Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-12T10:32:41Z | `3439ff7` | Merge branch 'locale-agnostic-sort' into 'master' | 2026-05-14T18:58:46Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-04-24T00:24:24Z | `e53c214` | util: add a free_clear() helper to reset after free | 2026-05-14T18:59:00Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-05-14T18:59:03Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-05-14T18:59:47Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-03-11T07:46:00Z | `a7e7514` | Merge branch 'fix-pkcs11-init' into 'master' | 2026-05-14T18:59:03Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-05-14T18:58:42Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-05-14T18:58:48Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-05-14T18:58:34Z |
