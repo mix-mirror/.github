@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-05-24T16:00:14Z | `549fd2d` | Merge branch 'update26' into 'master' | 2026-05-24T16:16:23Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-24T11:24:14Z | `0eb7313` | Merge branch 'tmp-736' into 'master' | 2026-05-24T16:16:14Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-05-22T16:30:49Z | `0226bdd` | new: ci: Add Debian "trixie" (386) | 2026-05-24T16:18:22Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-05-20T03:53:59Z | `31658a3` | tools/record: fix broken autorestart for timeouts >=5s | 2026-05-24T16:16:20Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-05-24T16:16:11Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-12T10:32:41Z | `3439ff7` | Merge branch 'locale-agnostic-sort' into 'master' | 2026-05-24T16:16:07Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-05-24T16:16:22Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-05-24T16:17:41Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-05-24T16:15:58Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-05-24T16:16:07Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-05-24T16:15:52Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-05-24T16:00:14Z | `549fd2d` | Merge branch 'update26' into 'master' | 2026-05-24T17:33:30Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-24T11:24:14Z | `0eb7313` | Merge branch 'tmp-736' into 'master' | 2026-05-24T17:33:20Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-05-22T16:30:49Z | `0226bdd` | new: ci: Add Debian "trixie" (386) | 2026-05-24T17:35:27Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-05-20T03:53:59Z | `31658a3` | tools/record: fix broken autorestart for timeouts >=5s | 2026-05-24T17:33:21Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-12T10:32:41Z | `3439ff7` | Merge branch 'locale-agnostic-sort' into 'master' | 2026-05-24T17:33:16Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-04-23T15:21:08Z | `f9ed681` | tests: shell: add test case for checkentry hook validations | 2026-05-24T17:33:23Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-05-24T17:34:26Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-05-24T17:33:15Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-05-24T17:33:14Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-05-24T17:33:01Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-05-24T17:33:09Z |
