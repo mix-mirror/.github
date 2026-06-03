@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-03T05:21:09Z | `29338d8` | Add SECURITY.md directing to confidential GitLab issues | 2026-06-03T15:05:57Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-02T14:16:33Z | `137e3a5` | fix: dev: Fix isc__tid_initcount() REQUIRE | 2026-06-03T15:07:51Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-31T16:05:28Z | `1d381c8` | Merge branch 'tmp-which' into 'master' | 2026-06-03T15:05:55Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-03T15:06:14Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-29T06:17:19Z | `60854e8` | Actually !259 was not on target. See locale(7) for LC_ALL vs others. | 2026-06-03T15:05:35Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-05-24T16:00:14Z | `549fd2d` | Merge branch 'update26' into 'master' | 2026-06-03T15:06:06Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-06-03T15:05:41Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-03T15:06:54Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-03T15:05:19Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-03T15:05:41Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-03T15:05:14Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-03T15:15:08Z | `8d4e448` | chg: doc: Set up version for BIND 9.21.24 | 2026-06-03T19:03:29Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-03T05:21:09Z | `29338d8` | Add SECURITY.md directing to confidential GitLab issues | 2026-06-03T19:01:14Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-31T20:33:53Z | `708f42a` | CONTRIBUTING.md/AGENTS.md: require tests to be self-diagnosing | 2026-06-03T19:01:13Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-03T19:01:24Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-29T06:17:19Z | `60854e8` | Actually !259 was not on target. See locale(7) for LC_ALL vs others. | 2026-06-03T19:00:56Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-05-24T16:00:14Z | `549fd2d` | Merge branch 'update26' into 'master' | 2026-06-03T19:01:44Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-06-03T19:01:12Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-03T19:02:18Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-03T19:00:56Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-03T19:01:01Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-03T19:00:40Z |
