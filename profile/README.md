@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-04T17:16:12Z | `2e2cbd3` | new: test: pytest helpers for dnssec and zone setup | 2026-06-05T01:56:46Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-03T22:43:10Z | `76f0d8a` | libinput-device-group: sanitize phys before printing it | 2026-06-05T01:55:02Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-31T20:33:53Z | `708f42a` | CONTRIBUTING.md/AGENTS.md: require tests to be self-diagnosing | 2026-06-05T01:54:40Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-05T01:54:26Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-29T06:17:19Z | `60854e8` | Actually !259 was not on target. See locale(7) for LC_ALL vs others. | 2026-06-05T01:54:42Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-05-24T16:00:14Z | `549fd2d` | Merge branch 'update26' into 'master' | 2026-06-05T01:54:54Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-05T01:55:25Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-05T01:54:26Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-05T01:54:34Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-05T01:54:43Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-06-05T01:54:51Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-04T17:16:12Z | `2e2cbd3` | new: test: pytest helpers for dnssec and zone setup | 2026-06-05T06:41:42Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-03T22:43:10Z | `76f0d8a` | libinput-device-group: sanitize phys before printing it | 2026-06-05T06:39:17Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-05-31T20:33:53Z | `708f42a` | CONTRIBUTING.md/AGENTS.md: require tests to be self-diagnosing | 2026-06-05T06:39:16Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-05T06:39:18Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-05-29T06:17:19Z | `60854e8` | Actually !259 was not on target. See locale(7) for LC_ALL vs others. | 2026-06-05T06:39:10Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-05-24T16:00:14Z | `549fd2d` | Merge branch 'update26' into 'master' | 2026-06-05T06:39:28Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-05T06:40:27Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-05T06:39:09Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-05T06:39:10Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-05T06:38:56Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-06-05T06:39:04Z |
