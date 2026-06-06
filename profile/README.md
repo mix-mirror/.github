@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-06-06T15:16:33Z | `117ed17` | Merge branch 'tmp-729' into 'master' | 2026-06-06T22:19:18Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-06T05:52:57Z | `67b0555` | chg: nil: CVE checklist updates | 2026-06-06T22:21:17Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-06-05T09:22:04Z | `722ba43` | Merge branch 'leuk0cyte-master' into github | 2026-06-06T22:19:18Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-03T22:43:10Z | `76f0d8a` | libinput-device-group: sanitize phys before printing it | 2026-06-06T22:19:50Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-06T22:19:02Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-05-24T16:00:14Z | `549fd2d` | Merge branch 'update26' into 'master' | 2026-06-06T22:19:31Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-06-06T22:19:38Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-06T22:20:08Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-06T22:19:02Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-06T22:19:12Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-06T22:19:19Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-06-06T15:16:33Z | `117ed17` | Merge branch 'tmp-729' into 'master' | 2026-06-06T23:37:35Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-06T05:52:57Z | `67b0555` | chg: nil: CVE checklist updates | 2026-06-06T23:39:19Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-06-05T09:22:04Z | `722ba43` | Merge branch 'leuk0cyte-master' into github | 2026-06-06T23:37:32Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-03T22:43:10Z | `76f0d8a` | libinput-device-group: sanitize phys before printing it | 2026-06-06T23:37:45Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-06T23:37:42Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-05-24T16:00:14Z | `549fd2d` | Merge branch 'update26' into 'master' | 2026-06-06T23:37:46Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-06-06T23:37:32Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-06T23:38:33Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-06T23:37:34Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-06T23:37:29Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-06T23:37:19Z |
