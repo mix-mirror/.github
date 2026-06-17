@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-16T15:26:01Z | `499da93` | fix: doc: Edit SECURITY.md to remove references to bind-security@isc.org | 2026-06-17T00:00:46Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-16T11:32:46Z | `8b702bf` | Tag version 9.21 | 2026-06-16T23:58:29Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-06-16T05:37:43Z | `c9ad432` | silence werkzeug info messages | 2026-06-16T23:58:39Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-06-15T20:23:24Z | `cfb0e0a` | main: improved reporting of errors by main | 2026-06-16T23:58:16Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-12T06:46:53Z | `b12bc3b` | quirks: add HP haptic touchpad quirk | 2026-06-16T23:58:53Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-16T23:58:35Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-06-16T23:58:56Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-16T23:59:35Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-16T23:58:25Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-16T23:58:27Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-16T23:58:37Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-06-17T04:17:05Z | `f3f74de` | tests: do not store environment information | 2026-06-17T05:05:22Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-17T02:42:40Z | `1fe1799` | rem: usr: remove the secondary validator in query.c | 2026-06-17T05:07:42Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-16T11:32:46Z | `8b702bf` | Tag version 9.21 | 2026-06-17T05:05:35Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-06-16T05:37:43Z | `c9ad432` | silence werkzeug info messages | 2026-06-17T05:05:13Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-12T06:46:53Z | `b12bc3b` | quirks: add HP haptic touchpad quirk | 2026-06-17T05:05:30Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-17T05:05:21Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-06-17T05:05:17Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-17T05:06:17Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-17T05:05:06Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-17T05:05:15Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-17T05:04:57Z |
