@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-17T20:55:58Z | `02f0625` | Merge branch 'bw-pulse-pass-code-5' into 'master' | 2026-06-17T21:46:33Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-17T20:30:13Z | `88701b9` | fix: nil: Allocate work threads from their owning loop's memory context | 2026-06-17T21:48:37Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-06-17T04:17:05Z | `f3f74de` | tests: do not store environment information | 2026-06-17T21:46:17Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-06-16T05:37:43Z | `c9ad432` | silence werkzeug info messages | 2026-06-17T21:46:32Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-12T06:46:53Z | `b12bc3b` | quirks: add HP haptic touchpad quirk | 2026-06-17T21:47:04Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-17T21:46:35Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-06-17T21:46:50Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-17T21:47:33Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-17T21:46:17Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-17T21:46:27Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-17T21:46:34Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-17T20:55:58Z | `02f0625` | Merge branch 'bw-pulse-pass-code-5' into 'master' | 2026-06-17T23:44:54Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-06-17T20:30:13Z | `88701b9` | fix: nil: Allocate work threads from their owning loop's memory context | 2026-06-17T23:46:54Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-06-17T04:17:05Z | `f3f74de` | tests: do not store environment information | 2026-06-17T23:44:43Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-06-16T05:37:43Z | `c9ad432` | silence werkzeug info messages | 2026-06-17T23:44:44Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-12T06:46:53Z | `b12bc3b` | quirks: add HP haptic touchpad quirk | 2026-06-17T23:45:12Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-06-17T23:44:29Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-05-14T14:26:10Z | `244c0a0` | testing stripts: allow to skip "awk gsub erroneous word start match" test | 2026-06-17T23:45:00Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-06-17T23:45:31Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-06-17T23:44:28Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-01-06T11:15:43Z | `4f5796a` | Merge branch '424-test-typo' into 'main' | 2026-06-17T23:44:36Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-06-17T23:44:45Z |
