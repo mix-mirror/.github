@@ -2,14 +2,14 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-07-03T11:58:45Z | `d4ba031` | fix timeout | 2026-07-04T05:26:15Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-07-03T07:01:30Z | `d2350fc` | fix: usr: Unvalidated opt-out NSEC3 could be accepted in insecurity proof | 2026-07-04T05:28:47Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-07-03T06:17:51Z | `cd8427b` | svlogd: fix buffer overrun | 2026-07-04T05:26:18Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-07-01T14:07:10Z | `f64ae3c` | Merge branch 'fix-572' into 'main' | 2026-07-04T05:26:14Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-26T18:39:02Z | `2035601` | CI: Fix changelog check to fetch base commit and print BASE | 2026-07-04T05:26:31Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-19T03:25:40Z | `4c7f7b1` | evdev: verify fd via cached devnum on FreeBSD | 2026-07-04T05:26:19Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-06-17T04:17:05Z | `f3f74de` | tests: do not store environment information | 2026-07-04T05:26:20Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-07-04T05:27:24Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-07-04T05:26:07Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-07-04T05:26:00Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: SSL error: unknown error; class=Ssl (16) | 2026-07-04T05:27:31Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-07-03T11:58:45Z | `d4ba031` | fix timeout | 2026-07-04T08:12:33Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-07-03T07:01:30Z | `d2350fc` | fix: usr: Unvalidated opt-out NSEC3 could be accepted in insecurity proof | 2026-07-04T08:15:04Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-07-03T06:17:51Z | `cd8427b` | svlogd: fix buffer overrun | 2026-07-04T08:12:38Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-07-01T14:07:10Z | `f64ae3c` | Merge branch 'fix-572' into 'main' | 2026-07-04T08:12:32Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-26T18:39:02Z | `2035601` | CI: Fix changelog check to fetch base commit and print BASE | 2026-07-04T08:12:52Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-06-19T03:25:40Z | `4c7f7b1` | evdev: verify fd via cached devnum on FreeBSD | 2026-07-04T08:12:44Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-06-17T04:17:05Z | `f3f74de` | tests: do not store environment information | 2026-07-04T08:12:39Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-05-29T14:41:43Z | `5ef190f` | tests: shell: add test case for connlimit match | 2026-07-04T08:12:47Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-07-04T08:13:49Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-07-04T08:12:32Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2025-12-30T14:57:49Z | `8f41ccb` | mmc-utils: recognize ext_csd_rev 9 | 2026-07-04T08:12:18Z |
