@@ -22,6 +22,13 @@ repos:
       url: git@github.com:mix-mirror/mmc-utils.git
       auth: *auth
 
+  - name: xfstests
+    origin:
+      url: https://git.kernel.org/pub/scm/fs/xfs/xfstests-dev.git
+    target:
+      url: git@github.com:mix-mirror/xfstests.git
+      auth: *auth
+
   - name: BusyBox
     origin:
       url: git://busybox.net/busybox.git
