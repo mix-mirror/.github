@@ -2,15 +2,15 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-07-14T07:31:28Z | `9c90447` | fix: nil: Refactor findnsec3proofs() | 2026-07-14T08:27:09Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-07-12T16:10:23Z | `6d4f96a` | doc update | 2026-07-14T08:24:41Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-07-10T10:44:02Z | `84faa6b` | extensions: physdev: add regression test for mask size | 2026-07-14T08:24:58Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-07-09T13:07:28Z | `90aec67` | fix another bug in ci/ci/debug.sh | 2026-07-14T08:24:48Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-07-08T12:38:07Z | `8f0533c` | join: code shrink by making some variables "global" | 2026-07-14T08:24:36Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-07-08T10:23:38Z | `fe403fb` | mmc-utils: Update maintainers email | 2026-07-14T08:24:50Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-07-06T13:24:20Z | `1d8abdf` | quirks: ignore the tool type axis on the Lenovo P14s Gen 6 touchpad | 2026-07-14T08:24:50Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-07-01T14:07:10Z | `f64ae3c` | Merge branch 'fix-572' into 'main' | 2026-07-14T08:24:34Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-26T18:39:02Z | `2035601` | CI: Fix changelog check to fetch base commit and print BASE | 2026-07-14T08:24:55Z |
-| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-05-15T16:20:23Z | `ffc8bad` | xfs/21{6,7} Use default -l concurrency=0 on mkfs.xfs that supports it | 2026-07-14T08:24:27Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-07-14T08:25:53Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-07-14T08:24:33Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-07-14T07:31:28Z | `9c90447` | fix: nil: Refactor findnsec3proofs() | 2026-07-14T10:22:11Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-07-12T16:10:23Z | `6d4f96a` | doc update | 2026-07-14T10:20:07Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-07-10T10:44:02Z | `84faa6b` | extensions: physdev: add regression test for mask size | 2026-07-14T10:20:15Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-07-09T13:07:28Z | `90aec67` | fix another bug in ci/ci/debug.sh | 2026-07-14T10:19:56Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-07-08T12:38:07Z | `8f0533c` | join: code shrink by making some variables "global" | 2026-07-14T10:20:06Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-07-08T10:23:38Z | `fe403fb` | mmc-utils: Update maintainers email | 2026-07-14T10:19:58Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-07-06T13:24:20Z | `1d8abdf` | quirks: ignore the tool type axis on the Lenovo P14s Gen 6 touchpad | 2026-07-14T10:20:11Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-07-01T14:07:10Z | `f64ae3c` | Merge branch 'fix-572' into 'main' | 2026-07-14T10:19:59Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-26T18:39:02Z | `2035601` | CI: Fix changelog check to fetch base commit and print BASE | 2026-07-14T10:20:19Z |
+| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-05-15T16:20:23Z | `ffc8bad` | xfs/21{6,7} Use default -l concurrency=0 on mkfs.xfs that supports it | 2026-07-14T10:19:50Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-07-14T10:21:05Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-07-14T10:19:57Z |
