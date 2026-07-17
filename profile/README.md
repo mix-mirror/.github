@@ -2,15 +2,15 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-07-17T13:07:57Z | `ee52f96` | chg: dev: Do not attach authdb | 2026-07-17T21:05:31Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-07-16T06:38:24Z | `dde0a16` | Merge branch 'tmp-coverity' into 'master' | 2026-07-17T21:03:12Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-07-09T13:07:28Z | `90aec67` | fix another bug in ci/ci/debug.sh | 2026-07-17T21:03:13Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-07-08T10:23:38Z | `fe403fb` | mmc-utils: Update maintainers email | 2026-07-17T21:03:14Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-07-06T13:24:20Z | `1d8abdf` | quirks: ignore the tool type axis on the Lenovo P14s Gen 6 touchpad | 2026-07-17T21:03:18Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-07-01T14:07:10Z | `f64ae3c` | Merge branch 'fix-572' into 'main' | 2026-07-17T21:03:05Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-26T18:39:02Z | `2035601` | CI: Fix changelog check to fetch base commit and print BASE | 2026-07-17T21:03:24Z |
-| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-05-15T16:20:23Z | `ffc8bad` | xfs/21{6,7} Use default -l concurrency=0 on mkfs.xfs that supports it | 2026-07-17T21:02:57Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-07-17T21:04:19Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-07-17T21:02:58Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-07-17T21:03:04Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.netfilter.org: Network is unreachable; class=Os (2) | 2026-07-17T21:05:28Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-07-17T13:07:57Z | `ee52f96` | chg: dev: Do not attach authdb | 2026-07-17T22:11:13Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-07-16T06:38:24Z | `dde0a16` | Merge branch 'tmp-coverity' into 'master' | 2026-07-17T22:09:00Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-07-09T13:07:28Z | `90aec67` | fix another bug in ci/ci/debug.sh | 2026-07-17T22:09:00Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-07-08T10:23:38Z | `fe403fb` | mmc-utils: Update maintainers email | 2026-07-17T22:09:02Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-07-06T13:24:20Z | `1d8abdf` | quirks: ignore the tool type axis on the Lenovo P14s Gen 6 touchpad | 2026-07-17T22:08:58Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-07-01T14:07:10Z | `f64ae3c` | Merge branch 'fix-572' into 'main' | 2026-07-17T22:08:52Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-06-26T18:39:02Z | `2035601` | CI: Fix changelog check to fetch base commit and print BASE | 2026-07-17T22:09:14Z |
+| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-05-15T16:20:23Z | `ffc8bad` | xfs/21{6,7} Use default -l concurrency=0 on mkfs.xfs that supports it | 2026-07-17T22:08:45Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-07-17T22:10:10Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-07-17T22:08:51Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) |  |  |  | ERROR: Git error during fetch origin: error receiving data from socket: Connection reset by peer; class=Net (12) | 2026-07-17T22:08:43Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.netfilter.org: Network is unreachable; class=Os (2) | 2026-07-17T22:11:14Z |
