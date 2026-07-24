@@ -2,15 +2,15 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-07-24T16:38:38Z | `3db20fa` | grep: support --quiet | 2026-07-24T16:59:42Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-07-24T13:21:37Z | `faf885b` | Merge branch 'some-descent-fixes' into 'master' | 2026-07-24T16:59:31Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-07-24T10:44:11Z | `182db97` | fix: test: Drop a redundant racy check in fetchlimit test | 2026-07-24T17:02:10Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-07-24T06:14:09Z | `44072da` | touchpad: re-use a helper function | 2026-07-24T16:59:53Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-07-19T18:29:13Z | `70d1e79` | Merge branch 'deb_symbols' into 'master' | 2026-07-24T16:59:45Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-07-16T06:38:24Z | `dde0a16` | Merge branch 'tmp-coverity' into 'master' | 2026-07-24T16:59:38Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-07-08T10:23:38Z | `fe403fb` | mmc-utils: Update maintainers email | 2026-07-24T16:59:25Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-07-01T14:07:10Z | `f64ae3c` | Merge branch 'fix-572' into 'main' | 2026-07-24T16:59:31Z |
-| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-06-17T19:34:26Z | `acb6d4c` | common/defrag: skip defrag tests on DAX-enabled filesystems | 2026-07-24T16:59:23Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-07-24T17:00:54Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-07-24T16:59:23Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: SSL error: unknown error; class=Ssl (16) | 2026-07-24T17:01:21Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-07-24T17:46:01Z | `06b22f3` | Merge branch 'chronograms-2026' into 'master' | 2026-07-24T18:40:40Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-07-24T16:38:38Z | `3db20fa` | grep: support --quiet | 2026-07-24T18:40:23Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-07-24T10:44:11Z | `182db97` | fix: test: Drop a redundant racy check in fetchlimit test | 2026-07-24T18:43:02Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-07-24T06:14:09Z | `44072da` | touchpad: re-use a helper function | 2026-07-24T18:40:30Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-07-19T18:29:13Z | `70d1e79` | Merge branch 'deb_symbols' into 'master' | 2026-07-24T18:40:46Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-07-16T06:38:24Z | `dde0a16` | Merge branch 'tmp-coverity' into 'master' | 2026-07-24T18:40:31Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-07-08T10:23:38Z | `fe403fb` | mmc-utils: Update maintainers email | 2026-07-24T18:40:32Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-07-01T14:07:10Z | `f64ae3c` | Merge branch 'fix-572' into 'main' | 2026-07-24T18:40:23Z |
+| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-06-17T19:34:26Z | `acb6d4c` | common/defrag: skip defrag tests on DAX-enabled filesystems | 2026-07-24T18:40:17Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-07-24T18:40:34Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.savannah.gnu.org: Network is unreachable; class=Os (2) | 2026-07-24T18:42:55Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) |  |  |  | ERROR: Git error during fetch origin: failed to connect to git.netfilter.org: Network is unreachable; class=Os (2) | 2026-07-24T18:42:51Z |
