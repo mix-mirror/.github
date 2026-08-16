@@ -73,9 +73,3 @@ repos:
     target:
       url: git@github.com:mix-mirror/grub.git
       auth: *auth
-  - name: Mesa
-    origin:
-      url: https://gitlab.freedesktop.org/mesa/mesa.git
-    target:
-      url: git@github.com:mix-mirror/mesa.git
-      auth: *auth
