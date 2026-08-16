@@ -7,80 +7,75 @@ repos:
       auth: &auth
         type: ssh
         ssh_private_key: ${SSH_PRIVATE_KEY}
-
   - name: cado-nfs
     origin:
       url: https://gitlab.inria.fr/cado-nfs/cado-nfs.git
     target:
       url: git@github.com:mix-mirror/cado-nfs.git
       auth: *auth
-
   - name: mmc-utils
     origin:
       url: https://git.kernel.org/pub/scm/utils/mmc/mmc-utils.git
     target:
       url: git@github.com:mix-mirror/mmc-utils.git
       auth: *auth
-
   - name: xfstests
     origin:
       url: https://git.kernel.org/pub/scm/fs/xfs/xfstests-dev.git
     target:
       url: git@github.com:mix-mirror/xfstests.git
       auth: *auth
-
   - name: BusyBox
     origin:
       url: git://busybox.net/busybox.git
     target:
       url: git@github.com:mix-mirror/busybox.git
       auth: *auth
-
   - name: libinput
     origin:
       url: https://gitlab.freedesktop.org/libinput/libinput.git
     target:
       url: git@github.com:mix-mirror/libinput.git
       auth: *auth
-
   - name: DBus
     origin:
       url: https://gitlab.freedesktop.org/dbus/dbus.git
     target:
       url: git@github.com:mix-mirror/dbus.git
       auth: *auth
-
   - name: ocserv
     origin:
       url: https://gitlab.com/openconnect/ocserv.git
     target:
       url: git@github.com:mix-mirror/ocserv.git
       auth: *auth
-
   - name: openconnect
     origin:
       url: https://gitlab.com/openconnect/openconnect.git
     target:
       url: git@github.com:mix-mirror/openconnect.git
       auth: *auth
-
   - name: BIND
     origin:
       url: https://gitlab.isc.org/isc-projects/bind9.git
     target:
       url: git@github.com:mix-mirror/bind9.git
       auth: *auth
-
   - name: iptables
     origin:
       url: https://git.netfilter.org/iptables
     target:
       url: git@github.com:mix-mirror/iptables.git
       auth: *auth
-
   - name: GRUB
     origin:
       url: https://git.savannah.gnu.org/git/grub.git
     target:
       url: git@github.com:mix-mirror/grub.git
+      auth: *auth
+  - name: Mesa
+    origin:
+      url: https://gitlab.freedesktop.org/mesa/mesa.git
+    target:
+      url: git@github.com:mix-mirror/mesa.git
       auth: *auth
