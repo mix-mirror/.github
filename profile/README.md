@@ -2,15 +2,15 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-08-19T11:13:16Z | `e85d832` | Merge branch 'ci-enable-repo-gpg-check' into 'main' | 2026-08-19T13:12:38Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-08-19T10:36:24Z | `962eb90` | Merge tag 'v9.21.25' | 2026-08-19T13:15:36Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-08-15T13:19:11Z | `96a4baf` | certificate validation: do not use LOG_ERR when logging a missing optional certificate | 2026-08-19T13:12:29Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-08-10T04:30:18Z | `7473045` | tar: fix verbose output with extract-to-stdout | 2026-08-19T13:13:19Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-08-05T02:00:53Z | `63f7f2a` | Ruff fixes for ruff 0.16 | 2026-08-19T13:13:17Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-08-03T06:37:04Z | `9bb8fc0` | Merge branch 'fix-30141' into 'master' | 2026-08-19T13:13:01Z |
-| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-07-19T19:35:36Z | `56c410a` | fstests: formalize and fix disabling the RT subvolume | 2026-08-19T13:13:02Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-07-19T18:29:13Z | `70d1e79` | Merge branch 'deb_symbols' into 'master' | 2026-08-19T13:12:43Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-07-10T10:44:02Z | `84faa6b` | extensions: physdev: add regression test for mask size | 2026-08-19T13:12:53Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-07-08T10:23:38Z | `fe403fb` | mmc-utils: Update maintainers email | 2026-08-19T13:13:02Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-08-19T13:13:43Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-08-19T13:12:44Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-08-19T13:47:08Z | `e703168` | fix: usr: Missing required NSEC3 for delegation not detected | 2026-08-19T14:02:51Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-08-19T11:13:16Z | `e85d832` | Merge branch 'ci-enable-repo-gpg-check' into 'main' | 2026-08-19T13:59:51Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-08-15T13:19:11Z | `96a4baf` | certificate validation: do not use LOG_ERR when logging a missing optional certificate | 2026-08-19T14:00:00Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-08-10T04:30:18Z | `7473045` | tar: fix verbose output with extract-to-stdout | 2026-08-19T13:59:58Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-08-05T02:00:53Z | `63f7f2a` | Ruff fixes for ruff 0.16 | 2026-08-19T14:00:00Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-08-03T06:37:04Z | `9bb8fc0` | Merge branch 'fix-30141' into 'master' | 2026-08-19T14:00:00Z |
+| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-07-19T19:35:36Z | `56c410a` | fstests: formalize and fix disabling the RT subvolume | 2026-08-19T13:59:44Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-07-19T18:29:13Z | `70d1e79` | Merge branch 'deb_symbols' into 'master' | 2026-08-19T14:00:16Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-07-10T10:44:02Z | `84faa6b` | extensions: physdev: add regression test for mask size | 2026-08-19T14:00:13Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-07-08T10:23:38Z | `fe403fb` | mmc-utils: Update maintainers email | 2026-08-19T14:00:02Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-08-19T14:01:49Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-08-19T13:59:42Z |
