@@ -73,3 +73,9 @@ repos:
     target:
       url: git@github.com:mix-mirror/grub.git
       auth: *auth
+  - name: Xanmod Linux
+    origin:
+      url: https://gitlab.com/xanmod/linux.git
+    target:
+      url: git@github.com:mix-mirror/xanmod.git
+      auth: *auth
