@@ -73,3 +73,9 @@ repos:
     target:
       url: git@github.com:mix-mirror/grub.git
       auth: *auth
+  - name: modernc.org/sqlite
+    origin:
+      url: https://gitlab.com/cznic/sqlite.git
+    target:
+      url: git@github.com:mix-mirror/modernc.org-sqlite.git
+      auth: *auth
