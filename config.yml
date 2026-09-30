@@ -79,3 +79,9 @@ repos:
     target:
       url: git@github.com:mix-mirror/modernc.org-sqlite.git
       auth: *auth
+  - name: modernc.org/ccgo
+    origin:
+      url: https://gitlab.com/cznic/ccgo.git
+    target:
+      url: git@github.com:mix-mirror/modernc.org-ccgo.git
+      auth: *auth
