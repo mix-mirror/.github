@@ -85,3 +85,9 @@ repos:
     target:
       url: git@github.com:mix-mirror/modernc.org-ccgo.git
       auth: *auth
+  - name: ltrace
+    origin:
+      url: https://gitlab.com/cespedes/ltrace.git
+    target:
+      url: git@github.com:mix-mirror/ltrace.git
+      auth: *auth
