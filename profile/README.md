@@ -2,18 +2,18 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-10-03T13:26:15Z | `0625fac` | tftp: fix maximum allowed blcok size form 65564 to 65464 | 2026-10-03T18:43:28Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-10-02T20:39:07Z | `692ecb7` | update README.md | 2026-10-03T18:43:36Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-10-01T18:02:06Z | `b6501f6` | Merge branch 'tmp-lease' into 'master' | 2026-10-03T18:43:14Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-10-01T10:32:09Z | `5375ad9` | chg: test: Move the isctest and asyncserver tests into isctest | 2026-10-03T18:45:35Z |
-| [modernc.org/sqlite](git@github.com:mix-mirror/modernc.org-sqlite.git) | master | 2026-09-30T10:27:41Z | `5204a67` | CHANGELOG.md: _time_format=string_no_monotonic; open v1.61.0 | 2026-10-03T18:45:31Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-09-27T16:34:13Z | `1d58afc` | Update NEWS | 2026-10-03T18:43:34Z |
-| [modernc.org/ccgo](git@github.com:mix-mirror/modernc.org-ccgo.git) | master | 2026-09-21T14:40:51Z | `58dde4a` | v4/lib: link a builtin to the plain function only when linking with libc | 2026-10-03T18:43:46Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-09-19T13:31:23Z | `0ee89be` | nft: fix security table priority | 2026-10-03T18:43:47Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-09-17T04:22:22Z | `5cf833b` | libinput 1.32.0 | 2026-10-03T18:43:19Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-09-10T12:26:49Z | `c6692d5` | mmc-utils: Add health command for eMMC health reporting | 2026-10-03T18:43:37Z |
-| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-08-28T10:11:59Z | `3e1ee80` | check: add deprecated options warning | 2026-10-03T18:43:15Z |
-| [ltrace](git@github.com:mix-mirror/ltrace.git) | main | 2026-08-25T01:53:53Z | `3f9b64a` | Fix tests involving pointers to global symbols | 2026-10-03T18:43:48Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-07-19T18:29:13Z | `70d1e79` | Merge branch 'deb_symbols' into 'master' | 2026-10-03T18:43:25Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-10-03T18:43:24Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) |  |  |  | ERROR: Git error during fetch origin: unexpected http status code: 500; class=Http (34) | 2026-10-03T18:45:29Z |
+| [modernc.org/ccgo](git@github.com:mix-mirror/modernc.org-ccgo.git) | master | 2026-10-03T21:23:14Z | `7d5b3dc` | update dependencies | 2026-10-03T22:03:08Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-10-03T13:26:15Z | `0625fac` | tftp: fix maximum allowed blcok size form 65564 to 65464 | 2026-10-03T22:02:43Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-10-02T20:39:07Z | `692ecb7` | update README.md | 2026-10-03T22:02:52Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-10-01T18:02:06Z | `b6501f6` | Merge branch 'tmp-lease' into 'master' | 2026-10-03T22:02:27Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-10-01T10:32:09Z | `5375ad9` | chg: test: Move the isctest and asyncserver tests into isctest | 2026-10-03T22:05:19Z |
+| [modernc.org/sqlite](git@github.com:mix-mirror/modernc.org-sqlite.git) | master | 2026-09-30T10:27:41Z | `5204a67` | CHANGELOG.md: _time_format=string_no_monotonic; open v1.61.0 | 2026-10-03T22:05:13Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-09-27T16:34:13Z | `1d58afc` | Update NEWS | 2026-10-03T22:02:48Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-09-19T13:31:23Z | `0ee89be` | nft: fix security table priority | 2026-10-03T22:03:00Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-09-17T04:22:22Z | `5cf833b` | libinput 1.32.0 | 2026-10-03T22:02:32Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-09-10T12:26:49Z | `c6692d5` | mmc-utils: Add health command for eMMC health reporting | 2026-10-03T22:02:55Z |
+| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-08-28T10:11:59Z | `3e1ee80` | check: add deprecated options warning | 2026-10-03T22:02:27Z |
+| [ltrace](git@github.com:mix-mirror/ltrace.git) | main | 2026-08-25T01:53:53Z | `3f9b64a` | Fix tests involving pointers to global symbols | 2026-10-03T22:03:03Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-07-19T18:29:13Z | `70d1e79` | Merge branch 'deb_symbols' into 'master' | 2026-10-03T22:02:39Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-10-03T22:02:36Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) |  |  |  | ERROR: Git error during fetch origin: unexpected http status code: 500; class=Http (34) | 2026-10-03T22:04:45Z |
