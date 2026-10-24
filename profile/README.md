@@ -2,18 +2,18 @@
 
 | Repository | Default Branch | Latest Commit Time (UTC) | Commit | Message | Last Synced |
 |---|---|---|---|---|---|
-| [modernc.org/ccgo](git@github.com:mix-mirror/modernc.org-ccgo.git) | master | 2026-10-23T19:52:07Z | `73a099f` | v4/lib: evaluate a Go pointer operand that has a constant value and side effects | 2026-10-23T21:18:32Z |
-| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-10-23T16:57:27Z | `643e321` | NEWS: Update | 2026-10-23T21:18:26Z |
-| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-10-23T12:52:02Z | `cbd2e3a` | fix: doc: Document type redirect limitations | 2026-10-23T21:20:18Z |
-| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-10-22T14:18:24Z | `41da55e` | quirks: remove REL_HWHEEL from the Holtek 04D9:A09F keyboard node | 2026-10-23T21:18:06Z |
-| [modernc.org/sqlite](git@github.com:mix-mirror/modernc.org-sqlite.git) | master | 2026-10-22T10:19:10Z | `b171202` | tx, rows, conn: end the lock waits of Commit, Rows.Next and Rows.Close with the context | 2026-10-23T21:20:49Z |
-| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-10-22T05:31:22Z | `5eee801` | ash: do not read past the text of an unset MAIL | 2026-10-23T21:17:51Z |
-| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-10-21T10:16:03Z | `68ce4ed` | extensions: libxt_conntrack: Fail on untranslatable state match | 2026-10-23T21:18:01Z |
-| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-10-18T14:34:15Z | `22f0c8a` | Added MR template with explicit scope section and review scope gate | 2026-10-23T21:17:30Z |
-| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-10-02T20:39:07Z | `692ecb7` | update README.md | 2026-10-23T21:17:37Z |
-| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-09-20T12:10:25Z | `22348af` | generic: test bdev freeze count leak on nested thaw | 2026-10-23T21:17:30Z |
-| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-09-10T12:26:49Z | `c6692d5` | mmc-utils: Add health command for eMMC health reporting | 2026-10-23T21:17:38Z |
-| [ltrace](git@github.com:mix-mirror/ltrace.git) | main | 2026-08-25T01:53:53Z | `3f9b64a` | Fix tests involving pointers to global symbols | 2026-10-23T21:18:30Z |
-| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-07-19T18:29:13Z | `70d1e79` | Merge branch 'deb_symbols' into 'master' | 2026-10-23T21:17:46Z |
-| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-10-23T21:18:43Z |
-| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-10-23T21:17:35Z |
+| [modernc.org/ccgo](git@github.com:mix-mirror/modernc.org-ccgo.git) | master | 2026-10-23T19:52:07Z | `73a099f` | v4/lib: evaluate a Go pointer operand that has a constant value and side effects | 2026-10-23T23:59:07Z |
+| [DBus](git@github.com:mix-mirror/dbus.git) | main | 2026-10-23T16:57:27Z | `643e321` | NEWS: Update | 2026-10-23T23:59:43Z |
+| [BIND](git@github.com:mix-mirror/bind9.git) | main | 2026-10-23T12:52:02Z | `cbd2e3a` | fix: doc: Document type redirect limitations | 2026-10-24T00:00:23Z |
+| [libinput](git@github.com:mix-mirror/libinput.git) | main | 2026-10-22T14:18:24Z | `41da55e` | quirks: remove REL_HWHEEL from the Holtek 04D9:A09F keyboard node | 2026-10-23T23:59:23Z |
+| [modernc.org/sqlite](git@github.com:mix-mirror/modernc.org-sqlite.git) | master | 2026-10-22T10:19:10Z | `b171202` | tx, rows, conn: end the lock waits of Commit, Rows.Next and Rows.Close with the context | 2026-10-24T00:00:45Z |
+| [BusyBox](git@github.com:mix-mirror/busybox.git) | master | 2026-10-22T05:31:22Z | `5eee801` | ash: do not read past the text of an unset MAIL | 2026-10-23T23:59:04Z |
+| [iptables](git@github.com:mix-mirror/iptables.git) | master | 2026-10-21T10:16:03Z | `68ce4ed` | extensions: libxt_conntrack: Fail on untranslatable state match | 2026-10-23T23:58:43Z |
+| [ocserv](git@github.com:mix-mirror/ocserv.git) | master | 2026-10-18T14:34:15Z | `22f0c8a` | Added MR template with explicit scope section and review scope gate | 2026-10-23T23:58:04Z |
+| [cado-nfs](git@github.com:mix-mirror/cado-nfs.git) | master | 2026-10-02T20:39:07Z | `692ecb7` | update README.md | 2026-10-23T23:58:30Z |
+| [xfstests](git@github.com:mix-mirror/xfstests.git) | master | 2026-09-20T12:10:25Z | `22348af` | generic: test bdev freeze count leak on nested thaw | 2026-10-23T23:58:44Z |
+| [mmc-utils](git@github.com:mix-mirror/mmc-utils.git) | master | 2026-09-10T12:26:49Z | `c6692d5` | mmc-utils: Add health command for eMMC health reporting | 2026-10-23T23:58:32Z |
+| [ltrace](git@github.com:mix-mirror/ltrace.git) | main | 2026-08-25T01:53:53Z | `3f9b64a` | Fix tests involving pointers to global symbols | 2026-10-23T23:59:10Z |
+| [openconnect](git@github.com:mix-mirror/openconnect.git) | master | 2026-07-19T18:29:13Z | `70d1e79` | Merge branch 'deb_symbols' into 'master' | 2026-10-23T23:58:24Z |
+| [GRUB](git@github.com:mix-mirror/grub.git) | master | 2026-03-13T17:15:37Z | `b07cc37` | SECURITY: Update security team members names/fingerprints | 2026-10-23T23:58:53Z |
+| [rEFInd](git@github.com:mix-mirror/rEFInd.git) | master | 2026-01-07T01:01:06Z | `cf542da` | Fix build problems on Debian Testing caused by objcopy changes | 2026-10-23T23:58:10Z |
